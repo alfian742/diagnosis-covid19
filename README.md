@@ -1,1 +1,1 @@
-# diagnosis-covid19
+# Diagnosis Gejala Awal Covid-19
